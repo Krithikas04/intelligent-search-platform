@@ -1,0 +1,10 @@
+test_name,user,company,result,duration_ms,error_message,timestamp
+"A4 Grounded answer has content","beatrice-aetheris","Aetheris Pharma","PASS","10088","","2026-02-19T12:57:21.999Z"
+"A4 Grounded answer has content","amy-kyberon","Kyberon Cloud","PASS","10071","","2026-02-19T12:57:32.296Z"
+"A5 Performance-mode returns answer","frank-hexaloom","Hexaloom Nanoworks","PASS","13062","","2026-02-19T12:57:45.612Z"
+"A5 Performance-mode returns answer","edward-hexaloom","Hexaloom Nanoworks","PASS","13087","","2026-02-19T12:57:58.937Z"
+"A5 Performance-mode returns answer","alice-veldra","Veldra Therapeutics","PASS","13083","","2026-02-19T12:58:12.266Z"
+"A5 Performance-mode returns answer","aaron-veldra","Veldra Therapeutics","PASS","14088","","2026-02-19T12:58:26.579Z"
+"A5 Performance-mode returns answer","beatrice-aetheris","Aetheris Pharma","PASS","13051","","2026-02-19T12:58:39.882Z"
+"A5 Performance-mode returns answer","amy-kyberon","Kyberon Cloud","PASS","13075","","2026-02-19T12:58:53.200Z"
+"A5 Performance-mode returns answer","arthur-sentivue","Sentivue AI","PASS","13084","","2026-02-19T12:59:06.509Z"
